@@ -20,7 +20,5 @@ Steps:
 
 There's alogin error? Check the JDBC Url
 
-
-
-
+![Captura de pantalla de 2021-09-07 09-58-48](https://user-images.githubusercontent.com/79221364/132350846-d6eb42a8-543a-4e16-8a08-ce60e02008f1.png)
 
